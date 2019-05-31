@@ -134,6 +134,7 @@ VALUES (@NOME, @CATEGORIA, @CURTIU, @DURACAO, @AVALIACAO, @TEM_SEQUENCIA)";
             SqlCommand comando = new SqlCommand();
             comando.Connection = conexao;
             comando.CommandText = "DELETE FROM filmes WHERE id = @ID";
+            comando.Parameters.AddWithValue("@ID", id);
             comando.ExecuteNonQuery();
             conexao.Close();
         }

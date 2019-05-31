@@ -13,3 +13,5 @@ INSERT INTO filmes
 VALUES
 ('Carros 3', 10.0, '2000-01-01 02:30:00', 1, 'Infantil', 1),
 ('Professor !(não) é bipolar', 5.0, '2000-01-01 01:45:00', 1, 'Ação', 0);
+
+SELECT * FROM filmes;
