@@ -29,3 +29,4 @@ C:\Users\65980\Desktop\Exemplo-Banco-Dados02\View\obj\Debug\View.csproj.CopyComp
 C:\Users\65980\Desktop\Exemplo-Banco-Dados02\View\obj\Debug\View.exe
 C:\Users\65980\Desktop\Exemplo-Banco-Dados02\View\obj\Debug\View.pdb
 C:\Users\65980\Desktop\Exemplo-Banco-Dados02\View\obj\Debug\View.FilmeCadastro.resources
+C:\Users\65980\Desktop\Exemplo-Banco-Dados02\View\obj\Debug\View.FilmeEditar.resources

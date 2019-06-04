@@ -90,7 +90,7 @@ namespace Repositorio
                 DataRow linha = dataTable.Rows[0];
                 Filme filme = new Filme();
                 filme.Id = Convert.ToInt32(linha["id"]);
-                filme.Nome = linha["linha"].ToString();
+                filme.Nome = linha["nome"].ToString();
                 filme.Categoria = linha["categoria"].ToString();
                 filme.Curtiu = Convert.ToBoolean(linha["curtiu"]);
                 filme.Duracao = Convert.ToDateTime(linha["duracao"]);

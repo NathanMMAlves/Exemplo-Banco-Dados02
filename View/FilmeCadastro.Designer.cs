@@ -198,7 +198,7 @@
             this.Controls.Add(this.lblNome);
             this.Name = "FilmeCadastro";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "FilmeCadastro";
+            this.Text = "Cadastro Filme";
             this.ResumeLayout(false);
             this.PerformLayout();
 

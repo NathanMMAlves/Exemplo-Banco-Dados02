@@ -220,7 +220,8 @@
             this.Controls.Add(this.txtId);
             this.Controls.Add(this.lblId);
             this.Name = "FilmeEditar";
-            this.Text = "FilmeEditar";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Editar Filme";
             this.ResumeLayout(false);
             this.PerformLayout();
 
